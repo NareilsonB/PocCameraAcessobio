@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">PocCameraAcessobio</string>
+    <string name="selfie">SEFFIE</string>
+    <string name="doc_front">RG FRENTE</string>
+    <string name="doc_back">RG ATRÁS</string>
+    <string name="dc_cnh">CNH</string>
+    <string name="txt_preview">PREVIEW</string>
+    <string name="abrir_a_camera">Abrir a Camera</string>
 </resources>
